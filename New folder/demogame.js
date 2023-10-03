@@ -184,7 +184,7 @@ scene("main", () => {
       layer("ui"),
       "TIME_DIF",
     ]);
-    if (TIME_DIF >= 50) {
+    if (TIME_DIF >= 7) {
       add([
         text("rapid fire activated"),
         pos(250, 105),
