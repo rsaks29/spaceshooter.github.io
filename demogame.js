@@ -16,8 +16,8 @@ loadSprite("rocket", "https://i.imgur.com/gQnVGjV.png");
 loadSprite("alien", "https://i.imgur.com/38Pc7n7.png");
 
 // Load sounds
-loadSound("shoot", "/shoot.wav");
-loadSound("song", "/sample_3.mp3")
+loadSound("shoot", "shoot.wav");
+loadSound("song", "sample_3.mp3")
 
 let song;
 let SHOOT_SOUND;
