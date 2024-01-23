@@ -16,7 +16,7 @@ loadSprite("rocket", "https://i.imgur.com/gQnVGjV.png");
 loadSprite("alien", "https://i.imgur.com/38Pc7n7.png");
 
 // Load sounds
-loadSound("shoot", "shoot.wav");
+loadSound("shoot", "https://rsaks29.github.io/spaceshooter.github.io/shoot.wav");
 loadSound("song", "https://rsaks29.github.io/spaceshooter.github.io/sample_3.mp3")
 
 let song;
